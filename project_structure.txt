@@ -1,0 +1,40 @@
+/lib
+  main.dart
+  /screens
+    login_screen.dart
+    dashboard_screen.dart
+    chat_screen.dart
+    project_board_screen.dart
+    task_detail_screen.dart
+  /widgets
+  /models
+  /providers
+  /services
+    api_service.dart
+    socket_service.dart
+    notification_service.dart
+
+/backend
+  manage.py
+  /worksync
+    settings.py
+    urls.py
+    wsgi.py
+  /apps
+    users/
+    projects/
+    tasks/
+    messages/
+  /config
+    db_config.py
+    aws_config.py
+
+/assets
+  /images
+  /icons
+  /docs
+
+/docs
+  system_architecture.png
+  api_endpoints.md
+  feature_list.md
