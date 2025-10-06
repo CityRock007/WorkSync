@@ -1,0 +1,11 @@
+Teams / Employees → WorkSync Web & Mobile App (Flutter)
+│
+│──> REST API (Django / Node.js)
+│
+│──> PostgreSQL Database (AWS RDS)
+│
+│──> Real-time Communication (Socket.IO / WebSockets)
+│
+│──> File Storage (AWS S3)
+│
+└──> Notifications (Firebase Cloud Messaging / AWS SNS)
